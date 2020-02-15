@@ -7,3 +7,5 @@ create by xiaoshidi 2020.2.15
 First install git
 
 sudo apt-get install git
+
+sudo apt-get install openssh-server
